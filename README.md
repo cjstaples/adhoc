@@ -1,0 +1,4 @@
+adhoc
+=====
+
+adhoc code samples
